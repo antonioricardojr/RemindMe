@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  description: MyText
+  date: 2014-03-30 17:48:14
+  one_hour: false
+  one_day: false
+  three_days: false
+
+two:
+  name: MyString
+  description: MyText
+  date: 2014-03-30 17:48:14
+  one_hour: false
+  one_day: false
+  three_days: false
